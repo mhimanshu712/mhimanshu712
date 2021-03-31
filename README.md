@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oh hello there 👋
 
 **🛠 &nbsp;Tech Stack**
 
@@ -20,10 +20,5 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
-
-***
-  -  📫 Find Me Here:
-[![LinkedIn](https://img.shields.io/badge/-Himanshu_Mishra-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mhimanshu712/)
-[![Gmail](https://img.shields.io/badge/-Himanshu_Mishra-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:mhimanshu712@gmail.com)
 
 ***
