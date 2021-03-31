@@ -1,6 +1,5 @@
 ### Oh hello there 👋
 
-**🛠 &nbsp;My Tech Stack**
 
 - Languages: &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
