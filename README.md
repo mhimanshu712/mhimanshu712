@@ -20,5 +20,3 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
-
-***
