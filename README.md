@@ -1,5 +1,5 @@
 ### Oh hello there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-**Keeping it short and sweet, this is my current Tech Stack. <br>For anything and everything other than that you can ping me [here](https://linkedin.com/in/mhimanshu712)**
+**Keeping it short and sweet, this is my current Tech Stack. <br>Want to ask something? Ping me [here](https://linkedin.com/in/mhimanshu712)**
 
 <br>
 
